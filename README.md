@@ -24,7 +24,7 @@ This is a solution to the [Article preview component challenge on Frontend Mento
 ### Links
 
 - Solution URL: [solution](https://github.com/nguyensylvie/article-preview)
-- Live Site URL: [live site](https://nguyensylvie.github.io/article-preview)
+- Live Site URL: [live site](article-preview-nguyensylvie.vercel.app)
 
 ## My process
 
